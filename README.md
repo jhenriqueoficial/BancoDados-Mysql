@@ -3,7 +3,7 @@
 # Projeto: Criar um Servidor com MySQL Dados Netflix
 
 **Autor:** João Henrique  
-**Instagram:** [@jhenriqueorginal](https://www.instagram.com/jhenriqueorginal)
+**Instagram:** [@jhenriqueoriginal](https://www.instagram.com/jhenriqueoriginal)
 
 ## Descrição do Projeto
 
